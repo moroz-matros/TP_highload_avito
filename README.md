@@ -134,7 +134,7 @@
 | **Итого** | **5008** |
 
 ### 3. Логическая схема
-![logic_v1](https://user-images.githubusercontent.com/59224300/136712298-cc2619c4-c7ba-458e-9357-facebc7e8f79.png)
+![logic_v1 drawio](https://user-images.githubusercontent.com/59224300/136712373-db775050-a6d9-4d01-84ec-e3601de0a287.png)
 ### 4. Физическая схема
 
 ### 5. Технологии
